@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-version:3
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:13
+#EXTINF:10.260256,
+https://raw.githubusercontent.com/power10101/U3B5IHggRmFtaWx5IFMwMUUxMS5tcDQ/main/U3B5IHggRmFtaWx5IFMwMUUxMS5tcDQ/segment_000.ts
+#EXTINF:12.971300,
+https://raw.githubusercontent.com/power10101/U3B5IHggRmFtaWx5IFMwMUUxMS5tcDQ/main/U3B5IHggRmFtaWx5IFMwMUUxMS5tcDQ/segment_001.ts
+#EXT-X-ENDLIST
